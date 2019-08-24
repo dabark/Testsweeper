@@ -1,0 +1,32 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background: white;
+
+}
+canvas {
+  position: absolute;
+  left: 50%;
+  top: 15%;
+  transform: translate(-50%, 0%);
+  transform-origin: 0% 0%;
+  display: block;
+  text-align: center;
+  box-shadow: 2.5px 2.5px rgb(101, 66, 0);
+}
+
+h1 {
+	font-family: "Lucida Console";
+	margin-top: 15px;
+	align-self: center;
+	text-align: center;
+
+}
+
+button {
+	font-family: "Lucida Console";
+}
+
+p {
+	margin: 5px;
+}
